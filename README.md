@@ -3,7 +3,7 @@ A javascript slider/ carousel showing different tracks
 with 
 ```
 display:none
-//hidden by default and visible on click
+//hidden by default but visible on click
 ``` 
 
 - `Cybersecurity`
