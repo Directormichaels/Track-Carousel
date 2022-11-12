@@ -12,3 +12,6 @@ display:none
 - `Software Engineering`
 - `Product Design`
 - `Data Analytics`
+
+Github Pages link
+https://directormichaels.github.io/Track-Carousel/
